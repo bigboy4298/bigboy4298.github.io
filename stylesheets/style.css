@@ -50,3 +50,7 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+.jumbotron{
+  background: url('http://i1376.photobucket.com/albums/ah29/spooky101515/class-tech_zpstiojigve.jpg') no-repeat center;
+  background-size: cover;
+}
