@@ -100,3 +100,6 @@ footer{
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
 }
+.col-sm-6 col-md-6{
+    background-color:green;
+}
